@@ -1,0 +1,7 @@
+{
+    "api_key": "api_key_here",
+    "api_key_secret": "api_key_secret_here",
+    "bearer_token": "bearer_token_here",
+    "access_token": "access_token_here",
+    "access_token_secret": "access_token_secret_here"
+}
